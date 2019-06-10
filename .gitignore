@@ -37,6 +37,8 @@ node_modules/
 jspm_packages/
 backend/node_modules/
 client/node_modules/
+client-old/node_modules/
+
 
 # TypeScript v1 declaration files
 typings/
