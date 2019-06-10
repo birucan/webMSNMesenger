@@ -16,8 +16,7 @@ componentDidMount() {
   }
 }
 
-never let a process live forever
-always kill a process everytime we are done using it
+
 componentWillUnmount() {
   if (this.state.intervalIsSet) {
     clearInterval(this.state.intervalIsSet);
